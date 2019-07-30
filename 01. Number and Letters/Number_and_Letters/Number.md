@@ -22,11 +22,16 @@ System.out.println("문");
 
 ### 문자끼리 또는 문자열 끼리도 연산이 가능하다.
 System.out.println("문자의"+" 연산");
+>문자의 연산
 
 ---
 # 이스케이프
 ### 만약 문자열 안에 큰 따옴표를 넣을려면 \(백슬래쉬)를 이용한다.
 System.out.println("egoing said \"Welcome programming world\"");
+>egoing said "Welcom programming world"
 
 ### 만약 여러줄을 표기하고 싶을 때에는 \n을 사용한다.
 System.out.println("HTML\nCSS\nJavaScript\n);
+>HTML \
+>CSS \
+>JavaScript
