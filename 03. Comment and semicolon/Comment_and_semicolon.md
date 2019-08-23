@@ -3,7 +3,7 @@
 ### 즉, 프로그램을 실행을 한다면, 주석처리가 돼있는 부분은 프로그램이 인식을 하지 못한다.
 ### 한줄만 주석을 사용할때는 //(슬래쉬 2개)를 사용하며, 여러줄 주석을 할때는 /* ... */(슬래쉬 별로 연 뒤, 별 슬래쉬로 닫음)를 사용한다.
 
-public static void main(String[] ages) 
+public static void main(String[] args) 
 
 {
 
@@ -12,7 +12,7 @@ public static void main(String[] ages)
     String a, b;
 }
 ### 이렇게 int형 변수와 String변수를 선언하였으나 주석으로 인하여 int형 변수를 인식하지 않는다.
-public static void main(String[] ages) 
+public static void main(String[] args) 
 
 {
 
