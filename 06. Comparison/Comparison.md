@@ -55,7 +55,7 @@ System.out.println(17 >= 17);
 ---
 ### '.equals'는 문자열을 비교할 때 사용되는 메소드이다.
 ### '.equals'는 외향을 비교하는 것이 아닌 내부를 비교하는 메소드이다.
-public static void main(String[] ages)
+public static void main(String[] args)
 
 {
 
