@@ -29,7 +29,7 @@ public static void main(String[] ages)
 }
 > Java Syntax
 ---
-public static void main(String[] ages)
+public static void main(String[] args)
 
 {
 
@@ -58,7 +58,7 @@ public static void main(String[] ages)
 ### -- / 감소 연산자. 값을 1 감소시킨다.
 ### 증감 연산자와 감소 연산자는 붙는 위치에 따라서 연산 후 실행과 실행 후 연산으로 나뉘게 된다.
 ### 증감 연산자와 감소 연산자 둘 다 변수의 앞의 붙느냐, 뒤에 붙느냐에 따라서 연산이 다르게 진행된다.
-public static void main(String[] ages)
+public static void main(String[] args)
 
 {
 
